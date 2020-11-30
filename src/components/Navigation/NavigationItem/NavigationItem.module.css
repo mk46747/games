@@ -1,0 +1,13 @@
+.NavigationItem {
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.NavigationItem:hover {
+    background-color: #E3AE57;
+    color: #232B2B;
+
+}

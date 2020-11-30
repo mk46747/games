@@ -1,0 +1,8 @@
+.Navigation {
+    display: flex;
+    overflow: hidden;
+    margin: auto;
+    width: 100%;
+    color: #E3AE57;
+    background-color: #232B2B;
+}

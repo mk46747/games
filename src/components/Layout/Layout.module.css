@@ -1,0 +1,7 @@
+.Layout {
+    width: 80%;
+    height: 820px;
+    margin: auto;
+    border: solid 1px black;
+    justify-content: space-between;
+}

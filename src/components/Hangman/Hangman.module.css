@@ -1,0 +1,17 @@
+.PlayArea{
+    width: 80%;
+    height: 772px;
+    text-align: center;
+    background-color: #E3AE57;
+    display: flex;
+    flex-direction: column;
+}
+
+.ProgressArea {
+    width: 20%;
+    height: 772px;
+}
+
+.Hangman{
+    display: flex;
+}

@@ -1,0 +1,20 @@
+.Message {
+    font-size: 72px;
+    color: #232B2B;
+    border: 1px solid #232B2B;
+    border-radius: 20px;
+    width: 60%;
+    margin: 50px auto;
+    padding: 5px;
+}
+
+.Win {
+    background-color: forestgreen;
+    color: #E3AE57;
+    border: 1px solid #E3AE57
+}
+.Loss {
+    background-color: darkred;
+    color: #E3AE57;
+    border: 1px solid #E3AE57
+}

@@ -1,0 +1,25 @@
+.Letter{
+  height: 70px;
+  width: 70px;
+  margin: 3px 3px;
+  border: 1px solid black;
+  display: inline-block;
+  font-size: 60px;
+  cursor: pointer;
+  padding: 5px;
+  text-transform: uppercase;
+  color: #232B2B;
+  border-radius: 20px;
+}
+
+.Guessed {
+  background-color: forestgreen;
+  color: #E3AE57;
+  border: 1px solid #E3AE57
+}
+.Failed {
+  background-color: darkred;
+  color: #E3AE57;
+  border: 1px solid #E3AE57
+}
+

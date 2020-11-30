@@ -1,0 +1,10 @@
+.ProgressBarItem {
+    border: 1px solid black;
+    width: 100%;
+    background-color: #232B2B;
+}
+
+
+.Failed {
+    background-color: darkred;
+}
